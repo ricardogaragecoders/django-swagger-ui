@@ -15,7 +15,7 @@ setup(
     license='BSD License',
     description='Django swagger UI is a viewer for Swagger YAML files as html.',
     long_description=README,
-    url='https://github.com/assem-ch/django-swagger-ui',
+    url='https://github.com/ricardogaragecoders/django-swagger-ui',
     author='Assem Chelli',
     author_email='assem.ch@gmail.com',
     classifiers=[
